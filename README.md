@@ -23,7 +23,7 @@ The user also have the option to click a button to copy the password to their cl
 
 In addition to that, the application adapts to multiple screen sizes.
 
-![Screenshot]()
+![Screenshot](https://github.com/Madhumitha/Password_Generator/blob/master/images/Password_generator.png)
 
 
 [Random Password Generator]()
