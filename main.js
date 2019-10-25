@@ -100,6 +100,8 @@ function generate() {
         }
     }
 
+    password = password.slice(0, num);
+
     console.log(password);
 
     document.getElementById("display").value = password;
