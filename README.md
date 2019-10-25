@@ -26,6 +26,6 @@ In addition to that, the application adapts to multiple screen sizes.
 ![Screenshot](https://github.com/Madhumitha/Password_Generator/blob/master/images/Password_generator.png)
 
 
-[Random Password Generator](https://madhumitha.github.io/Password_Generator/)
+Use this link for [Random Password Generator](https://madhumitha.github.io/Password_Generator/)
 
 
